@@ -21,7 +21,7 @@ const Home = () => {
         content='Hi, I am Kim, a web developer based in Finland. I have been working with React.js, Node.js, and MongoDB for more than two years. I am now looking for a career opportunity. Please, feel free contact me if you have any question related to web development.'
       />
       <meta name="og:title" property="og:title" content="Kim Nguyen's web portfolio"/>
-      <meta property="og:type" content="article" />
+      <meta property="og:type" content="website" />
       <meta name="og:description" property="og:description" content="Hi! My name is Kim Nguyen and welcome to my portfolio." />
       <meta property="og:url" content="https://portfolio-six-nu-64.vercel.app/" />
       <meta property="og:image" content="https://portfolio-six-nu-64.vercel.app/favicon.ico"/>
