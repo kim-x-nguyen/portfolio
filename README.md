@@ -4,7 +4,7 @@
   <h3 align="center">My personal portfolio</h3>
 
   <p align="center">
-    
+    My personal portfolio
     <br />
     <br />
     <a href="https://portfolio-six-nu-64.vercel.app/">View Demo</a>
