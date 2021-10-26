@@ -68,4 +68,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@LinkedIn](https://www.linkedin.com/in/kim-nguyen-xuong/)
+LinkedIn - [@LinkedIn](https://www.linkedin.com/in/kim-nguyen-xuong/)
