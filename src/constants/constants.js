@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/expenses-tracker.PNG',
       tags: ['React'],
     source: 'https://github.com/nguyenxuongkim2103/expenses-tracker',
-    visit: 'https://google.com',
+    visit: 'http://localhost:3000/under-construction',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/feed.PNG',
     tags: ['React', 'Node.js', 'ExpressJS', 'MongoDB'],
     source: 'https://github.com/nguyenxuongkim2103/travelogue',
-    visit: 'https://google.com',
+    visit: 'http://localhost:3000/under-construction',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/xin-chao-1.PNG',
       tags: ['React', 'Firebase'],
     source: 'https://github.com/nguyenxuongkim2103/xin-chao-restaurant',
-    visit: 'https://google.com',
+    visit: 'http://localhost:3000/under-construction',
     id: 2,
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/watchfree-1.jpg',
     tags: ['React', 'Firebase'],
     source: 'https://github.com/nguyenxuongkim2103/movie-list-app',
-    visit: 'https://google.com',
+    visit: 'http://localhost:3000/under-construction',
     id: 3,
   },
 ];
