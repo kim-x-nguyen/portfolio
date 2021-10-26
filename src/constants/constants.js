@@ -48,4 +48,5 @@ export const TimeLineData = [
 export const AcomplishmentData = [
   { number: 10, text: 'Personal Open Source Projects'},
   { number: 2, text: 'Years of experience'},
+  { number: 3, text: 'International academy projects},
 ];
