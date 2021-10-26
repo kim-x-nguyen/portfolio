@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Travelogue',
     description:"A plateform that allow users share their memorable travel experience through images. The platform also allows users to find the locations through an integrated map.",
-    image: '/images/feed.png',
+    image: '/images/feed.PNG',
     tags: ['React', 'Node.js', 'ExpressJS', 'MongoDB'],
     source: 'https://github.com/nguyenxuongkim2103/travelogue',
     visit: 'https://google.com',
