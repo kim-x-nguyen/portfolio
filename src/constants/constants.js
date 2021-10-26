@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Travelogue',
-    description:"A plateform that allow users share their memorable travel experience through images. The platform also allows users to find the locations through an integrated map.",
+    description:"A platform that allows users share their memorable travel experience through images. The platform also allows users to find the locations through an integrated map.",
     image: '/images/feed.PNG',
     tags: ['React', 'Node.js', 'ExpressJS', 'MongoDB'],
     source: 'https://github.com/nguyenxuongkim2103/travelogue',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Xin Chao restaurent',
-    description: "A website for the Xin Chao restaurant. The website integrated with a basic shopping lists, cart, and checkout system.",
+    description: "A website of the Xin Chao restaurant. The website integrated with a basic shopping lists, cart, and checkout system.",
       image: '/images/xin-chao-1.PNG',
       tags: ['React', 'Firebase'],
     source: 'https://github.com/nguyenxuongkim2103/xin-chao-restaurant',
