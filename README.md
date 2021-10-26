@@ -1,10 +1,6 @@
 <br />
-<p align="center">
-
-  <h3 align="center">My personal portfolio</h3>
-
   <p align="center">
-    My personal portfolio
+    <h1>My personal portfolio</h1>
     <br />
     <br />
     <a href="https://portfolio-six-nu-64.vercel.app/">View Demo</a>
@@ -12,7 +8,6 @@
     <a href="https://github.com/nguyenxuongkim2103/portfolio/issues">Report Bug</a>
     ·
     <a href="https://github.com/nguyenxuongkim2103/portfolio/issues">Request Feature</a>
-  </p>
 </p>
 
 
