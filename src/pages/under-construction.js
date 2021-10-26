@@ -20,7 +20,7 @@ const UnderContruction = () => {
                 <meta property="og:image" content="https://portfolio-six-nu-64.vercel.app/favicon.ico" />
             </Head>
                 <Section grid>
-                    <h1 style={{textAlign : "center"}, {fontSize : "100px"}}>Sorry! This site is under construction</h1>
+                    <h1 style={{textAlign : "center"}}>Sorry! This site is under construction</h1>
                     <BgAnimation />
                 </Section>
         </Fragment>
