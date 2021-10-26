@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Hi! I build this portfoilio to showcase my production skills, and as another personal project
+Hi! I build this portfoilio to showcase my production skills, and as another personal project.
 
 
 
