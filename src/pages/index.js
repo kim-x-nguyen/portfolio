@@ -15,7 +15,7 @@ const Home = () => {
   return (<Fragment>
     <Head>
       <title>Kim Nguyen - Portfolio</title>
-      <link rel="icon" type="image/png" href="/static/images/favicon.ico" />
+      <link rel="icon" type="image/png" href="https://portfolio-six-nu-64.vercel.app/favicon.ico" />
       <meta
         name='description'
         content='Hi, I am Kim, a web developer based in Finland. I have been working with React.js, Node.js, and MongoDB for more than two years. I am now looking for a career opportunity. Please, feel free contact me if you have any question related to web development.'
