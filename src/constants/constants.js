@@ -5,11 +5,7 @@ export const projects = [
       image: '/images/expenses-tracker.PNG',
       tags: ['React'],
     source: 'https://github.com/nguyenxuongkim2103/expenses-tracker',
-<<<<<<< HEAD
     visit: 'https://portfolio-six-nu-64.vercel.app/under-construction',
-=======
-    visit: 'https://portfolio-six-nu-64.vercel.app/under-construction',
->>>>>>> 83dc53cd8e9bd0d9fd8736c74e027cebd262fc5f
     id: 0,
   },
   {
@@ -18,11 +14,7 @@ export const projects = [
     image: '/images/feed.PNG',
     tags: ['React', 'Node.js', 'ExpressJS', 'MongoDB'],
     source: 'https://github.com/nguyenxuongkim2103/travelogue',
-<<<<<<< HEAD
     visit: 'https://portfolio-six-nu-64.vercel.app/under-construction',
-=======
-    visit: 'https://portfolio-six-nu-64.vercel.app/under-construction',
->>>>>>> 83dc53cd8e9bd0d9fd8736c74e027cebd262fc5f
     id: 1,
   },
   {
@@ -31,11 +23,7 @@ export const projects = [
       image: '/images/xin-chao-1.PNG',
       tags: ['React', 'Firebase'],
     source: 'https://github.com/nguyenxuongkim2103/xin-chao-restaurant',
-<<<<<<< HEAD
     visit: 'https://portfolio-six-nu-64.vercel.app/under-construction',
-=======
-    visit: 'https://portfolio-six-nu-64.vercel.app/under-construction',
->>>>>>> 83dc53cd8e9bd0d9fd8736c74e027cebd262fc5f
     id: 2,
   },
   {
@@ -44,11 +32,7 @@ export const projects = [
     image: '/images/watchfree-1.jpg',
     tags: ['React', 'Firebase'],
     source: 'https://github.com/nguyenxuongkim2103/movie-list-app',
-<<<<<<< HEAD
     visit: 'https://portfolio-six-nu-64.vercel.app/under-construction',
-=======
-    visit: 'https://portfolio-six-nu-64.vercel.app/under-construction',
->>>>>>> 83dc53cd8e9bd0d9fd8736c74e027cebd262fc5f
     id: 3,
   },
 ];
