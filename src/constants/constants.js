@@ -18,7 +18,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Xin Chao restaurent',
+    title: 'Xin Chao restaurant',
     description: "A website of the Xin Chao restaurant. The website integrated with a basic shopping lists, cart, and checkout system.",
       image: '/images/xin-chao-1.PNG',
       tags: ['React', 'Firebase'],
