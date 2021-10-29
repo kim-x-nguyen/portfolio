@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'An E-Commerce Website Skeleton',
-    description: "A website can serve as a sort of skeleton for a multitude of websites so you don't have to code from the very start. I build this website to showcase my production skills, and as another personal project.",
+    description: "An application can serve as a sort of skeleton for a multitude of websites so you don't have to code from the very start. I build this website to showcase my production skills, and as another personal project.",
       image: '/images/cloud9.PNG',
       tags: ['React'],
     source: 'https://github.com/nguyenxuongkim2103/ecommerce-website',
