@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Expenses Tracker',
-    description: "The Expenses Tracker application was built with React library. The application is a simple website that help users calculate and keep track of their living expenses.",
-      image: '/images/expenses-tracker.PNG',
+    title: 'An E-Commerce Website Skeleton',
+    description: "A website can serve as a sort of skeleton for a multitude of websites so you don't have to code from the very start. I build this website to showcase my production skills, and as another personal project.",
+      image: '/images/cloud9.PNG',
       tags: ['React'],
-    source: 'https://github.com/nguyenxuongkim2103/expenses-tracker',
-    visit: 'https://portfolio-six-nu-64.vercel.app/under-construction',
+    source: 'https://github.com/nguyenxuongkim2103/ecommerce-website',
+    visit: 'https://ecommerce-website-umber.vercel.app/',
     id: 0,
   },
   {
