@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
           You can read more about my biography, experience, skills, education and much more in the PDF attached bellow.
         </SectionText>
-        <a href="https://www.kimnguyen.tech/Resume_Kim_Nguyen.pdf" target={'_blank'}>
+        <a href="Resume_Kim_Nguyen.pdf" target={'_blank'}>
         <Button onClick={props.handleClick}>My resume</Button>
         </a>
       </LeftSection>
