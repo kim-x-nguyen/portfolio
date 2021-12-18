@@ -15,6 +15,7 @@ const Home = () => {
   return (<Fragment>
     <Head>
       <title>Kim Nguyen - Portfolio</title>
+      <link rel="shortcut icon" href="/images/favicon.ico" />
       <link rel="icon" type="image/png" href="https://www.kimnguyen.tech/" />
       <meta
         name='description'
