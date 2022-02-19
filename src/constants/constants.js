@@ -43,6 +43,7 @@ export const TimeLineData = [
   { year: 2019, text: 'Joined the project GGULIVRR with students from Ireland, Belgium, Portugal, and Poland to create a study guild platform at Lodz University.', },
   { year: 2020, text: 'Joined a team with ECC College of Computer and Multimedia students from Japan at a Game jam.', },
   { year: 2021, text: 'Graduated and started a new journey as a web developer.', },
+  { year: 2022, text: 'Joined Integrify to broaden more web development skills.', },
 ];
 
 export const AcomplishmentData = [
