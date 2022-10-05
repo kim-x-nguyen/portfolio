@@ -44,6 +44,7 @@ export const TimeLineData = [
   { year: 2020, text: 'Joined a team with ECC College of Computer and Multimedia students from Japan at a Game jam.', },
   { year: 2021, text: 'Graduated and started a new journey as a web developer.', },
   { year: 2022, text: 'Joined Integrify to broaden more web development skills.', },
+  { year: 2022, text: 'Joined Simap Oy to develop a heating control system to save energy and reduce carbon footprint.', },
 ];
 
 export const AcomplishmentData = [
